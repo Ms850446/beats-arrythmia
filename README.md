@@ -30,4 +30,4 @@
       LDA = LinearDiscriminantAnalysis(n_components=5)
       X_train_LDA = LDA.fit_transform(X_train, y_train)
    ```
- *
+ 
