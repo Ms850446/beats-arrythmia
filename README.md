@@ -5,7 +5,9 @@
 * [Dataset Description](#Dataset_Description)
 * [Methodology](#Methodology)
 * [Type & Shape Of Data](#Type_&_Shape_Of_Data)
+* [Steps](#Steps)
 * [Results & Conclosion](#Results&Conclousion)
+
 
 ## Built With:
 * [Python](#Python)
@@ -41,4 +43,12 @@
       LDA = LinearDiscriminantAnalysis(n_components=5)
       X_train_LDA = LDA.fit_transform(X_train, y_train)
    ```
+ ### Steps:
+ ![repo 1-1]()
+ * we make pre processing (notice that no none values)
+ * then make feature extraction using statistical feature (time domain & frequency domain)
+ * then applied correlation and LDA (feature selection & reduction) 
+ * finally applied cross validation and make our classification (training and testing)
+ * we use some models such as Random forest, Decision tree, Support vector machine, KNN, Logistic regression
  
+ ### 
