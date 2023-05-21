@@ -10,7 +10,7 @@
 ## Built With:
 * [Python](#Python)
 
-### Dataset Description:
+### Dataset_Description:
 * The MIT-BIH Arrhythmia Database has different types of arrhythmias present in the recording. The recordings were obtained from 47 patients, with one recording containing two leads. the sampling rate of 360 Hz and a resolution of 11 bits
 * it is described by a text header file (.hea), a binary file (.dat) and a binary annotation file (.atr).
 * The header file (.hea) is a short text file that describes the contents of the signals (including the name of signal file, number of samples, signal format, type of signal and the detailed clinical information)
