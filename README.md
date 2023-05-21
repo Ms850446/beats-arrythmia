@@ -1,14 +1,25 @@
 # Arrythmia Detection 
 
 ## Table Of Contents: 
+* [Requirements](#Requirements)
 * [Dataset Description](#Dataset_Description)
 * [Methodology](#Methodology)
-* [Requirements](#Requirements)
 * [Type & Shape Of Data](#Type_&_Shape_Of_Data)
 * [Results & Conclosion](#Results&Conclousion)
 
 ## Built With:
 * [Python](#Python)
+
+### Requirements:
+* pip install numpy
+* pip install matplotlib
+* pip install pandas
+* pip install sklearn
+* pip install csv
+* pip install seaborn
+* pip install os
+* pip install scipy
+* pip install wfdb
 
 ### Dataset_Description:
 * The MIT-BIH Arrhythmia Database has different types of arrhythmias present in the recording. The recordings were obtained from 47 patients, with one recording containing two leads. the sampling rate of 360 Hz and a resolution of 11 bits
