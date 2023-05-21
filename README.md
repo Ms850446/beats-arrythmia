@@ -44,7 +44,9 @@
       X_train_LDA = LDA.fit_transform(X_train, y_train)
    ```
  ### Steps:
- ![repo 1-1](https://github.com/Ms850446/beats-arrythmia/blob/main/bandicam%202023-05-21%2013-12-50-489.jpg)
+ <p align="center">
+    <img width="600" height="400" src="https://github.com/Ms850446/beats-arrythmia/blob/main/bandicam%202023-05-21%2013-12-50-489.jpg">
+</p>
  * we make pre processing (notice that no none values)
  * then make feature extraction using statistical feature (time domain & frequency domain)
  * then applied correlation and LDA (feature selection & reduction) 
