@@ -1,7 +1,7 @@
 # Arrythmia Detection 
 
 ## Table Of Contents: 
-* [Dataset Description](#DatasetDescription)
+* [Dataset Description](#Dataset_Description)
 * [Methodology](#Methodology)
 * [Requirements](#Requirements)
 * [Type & Shape Of Data](#Type&ShapeOfData)
